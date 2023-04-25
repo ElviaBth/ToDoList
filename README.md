@@ -35,7 +35,7 @@ $ npm install
 $ npm start
 $ npm run ToDo
 ```
-También puedes hacer click [aquí](https://to-do-list-beta-indol.vercel.app/) para entrar a nuestro sitio web.
+También puedes hacer click [aquí](https://to-do-list-v023.vercel.app/) para entrar a nuestro sitio web.
 
 ### :movie_camera:Prototipo
 
